@@ -1,0 +1,20 @@
+vhdl xil_defaultlib  \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_0/sim/bd_698a_microblaze_I_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_1/sim/bd_698a_rst_0_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_2/sim/bd_698a_ilmb_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_3/sim/bd_698a_dlmb_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_4/sim/bd_698a_dlmb_cntlr_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_5/sim/bd_698a_ilmb_cntlr_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_7/sim/bd_698a_second_dlmb_cntlr_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_8/sim/bd_698a_second_ilmb_cntlr_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_0/bd_0/ip/ip_10/sim/bd_698a_iomodule_0_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_ddr4_0_sys_reset_0/sim/uartlite_ddr4_0_sys_reset_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_proc_sys_reset_0_0/sim/uartlite_proc_sys_reset_0_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_proc_sys_reset_1_0/sim/uartlite_proc_sys_reset_1_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../bd/uartlite/ip/uartlite_util_ds_buf_0_0/sim/uartlite_util_ds_buf_0_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_util_ds_buf_1_0/sim/uartlite_util_ds_buf_1_0.vhd" \
+"../../../bd/uartlite/ip/uartlite_axi_uartlite_0_0/sim/uartlite_axi_uartlite_0_0.vhd" \
+
+# Do not sort compile order
+nosort
